@@ -4,6 +4,7 @@
 >
 > ⚠️ *Código de estudo. Nenhuma funcionalidade de C2 ou exfiltração real foi implementada — todos os dados são salvos localmente em `C:\Temp`.*
 
+## `Developed by: HKK`
 ---
 
 ## `$ cat ./objective.txt`
